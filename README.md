@@ -21,3 +21,5 @@ En este proyecto  consta de las siguientes secciones:
 -Footer;  sección contiene los hipervínculos al final de la página.
 
 con el objetivo de aprender  a utilizar las etiquetas estandar de HTML5 Y CSS3
+
+Aquí puedes visualizar mi proyecto terminado:[clongoogle](https://startling-pavlova-c6a351.netlify.app/).
